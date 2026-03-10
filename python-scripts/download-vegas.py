@@ -37,8 +37,8 @@ original_video = VideoFileClip(_john_vegas_mp4)
 # https://stackoverflow.com/questions/68399696/moviepy-extracting-audio-from-a-video-and-using-it-in-another-video
 # video = VideoFileClip(_john_vegas_mp4).subclipped(10, 20)
 video = original_video.subclipped(0, 5)
-video.audio.write_audiofile("audio.mp3")
-video.audio.write_audiofile("audio.wav")
+original_video.audio.write_audiofile("audio.mp3")
+original_video.audio.write_audiofile("audio.wav")
 
 print(video)
 # print("move to assets", type(downloaded), downloaded)

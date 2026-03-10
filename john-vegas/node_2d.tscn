@@ -17,10 +17,6 @@ position = Vector2(1170, 158)
 position = Vector2(332, 203)
 texture = ExtResource("3_0hol4")
 
-[node name="Audio" type="AudioStreamPlayer2D" parent="." unique_id=535025138]
-position = Vector2(600, 157)
-stream = ExtResource("3_epypp")
-
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." unique_id=453620224]
 stream = ExtResource("3_epypp")
 autoplay = true
