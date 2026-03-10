@@ -15,7 +15,7 @@ _dir = os.path.dirname(__file__)
 
 print(_dir)
 
-_assets_dir = os.path.abspath(os.path.join(_dir, '../assets'))
+_assets_dir = os.path.abspath(os.path.join(_dir, '../john-vegas/assets'))
 os.chdir(_assets_dir)
 
 _john_vegas_mp4 = os.path.abspath(os.path.join(_assets_dir, "Cool Protagonist for Your Video Game (Free to Use Audio) [clnrrJOmfPk].mp4")) 
