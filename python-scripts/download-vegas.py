@@ -1,6 +1,10 @@
 from yt_dlp import YoutubeDL
 from moviepy import VideoFileClip, TextClip, CompositeVideoClip
 
+# git clean -fx john-vegas/assets/
+# git clean -fx ../john-vegas/assets/
+# uv run download-vegas.py
+
 # from converter import Converter
 # https://pypi.org/project/moviepy/
 
