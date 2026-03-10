@@ -1,6 +1,9 @@
-*
+*.mp3
+*.wav
+*.png
+*.mp4
 !.gitignore
-
+# *.import
 
 # john vegas audio and man
 #https://www.youtube.com/watch?v=clnrrJOmfPk
