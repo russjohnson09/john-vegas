@@ -47,11 +47,12 @@ def _get_mp3_filename(text: str):
 def _save_mp3_from_timing_array(video: VideoFileClip, timing_array):
 
 
+    count = 0
     for timing in timing_array:
-
+        count += 1
         print(timing)
 
-        filepath = _get_mp3_filename(timing.get('text'))
+        filepath = _get_mp3_filename(f'{count}.{timing.get('text')}')
 
         clipped_video = video.subclipped(timing.get('start'), timing.get('end'))
 
