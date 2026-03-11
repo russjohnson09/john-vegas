@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://fs6vl8emq8ag"
+path="res://.godot/imported/10.big pain.mp3-bb5c9bcf5c85282604bba38b83a05f5d.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/10.big pain.mp3"
+dest_files=["res://.godot/imported/10.big pain.mp3-bb5c9bcf5c85282604bba38b83a05f5d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

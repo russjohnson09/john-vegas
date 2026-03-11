@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d3drxbbfa2cck"
+path="res://.godot/imported/7.This ain't no cruise baby.mp3-88efe5f42d24c2b87a1314dff3c1de42.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/7.This ain't no cruise baby.mp3"
+dest_files=["res://.godot/imported/7.This ain't no cruise baby.mp3-88efe5f42d24c2b87a1314dff3c1de42.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

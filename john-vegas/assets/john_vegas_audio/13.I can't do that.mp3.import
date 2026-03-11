@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://coankhknhec1w"
+path="res://.godot/imported/13.I can't do that.mp3-f827dc7e208a6ec142f10e83d4903ed4.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/13.I can't do that.mp3"
+dest_files=["res://.godot/imported/13.I can't do that.mp3-f827dc7e208a6ec142f10e83d4903ed4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
