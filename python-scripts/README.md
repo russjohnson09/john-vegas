@@ -1,4 +1,11 @@
 
+# Download assets
+uv run download-vegas.py 
+
+
+# Clip assets audio
+uv run generate_audio_clips.py
+
 
 
 

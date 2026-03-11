@@ -11,6 +11,7 @@ dependencies = [
     "pythonvideoconverter>=1.0.3",
     "moviepy>=2.2.1",
     "pyvips[binary]>=3.1.1",
+    "pandas>=3.0.1",
 ]
 
 [dependency-groups]
