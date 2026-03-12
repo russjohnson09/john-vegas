@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b3hn70tg03mef"
+path="res://.godot/imported/36. I won't do that.mp3-c48ed1c951890b277afb7571491196db.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/36. I won't do that.mp3"
+dest_files=["res://.godot/imported/36. I won't do that.mp3-c48ed1c951890b277afb7571491196db.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

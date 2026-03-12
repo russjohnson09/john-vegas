@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dixeu3d5fcqx6"
+path="res://.godot/imported/3. You can call me johnny vegas.mp3-06610b1865edc5b74f74748cfdeef6a9.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/3. You can call me johnny vegas.mp3"
+dest_files=["res://.godot/imported/3. You can call me johnny vegas.mp3-06610b1865edc5b74f74748cfdeef6a9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

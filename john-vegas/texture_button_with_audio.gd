@@ -11,7 +11,7 @@ extends TextureButton
 
 #https://docs.godotengine.org/en/stable/getting_started/step_by_step/scripting_languages.html
 
-@export var stream = preload("res://assets/john_vegas_audio/1.The name's john vegas.mp3")
+@export var stream = preload("res://assets/john_vegas_audio/1. The name's john vegas.mp3")
 
 
 func _on_pressed() -> void:

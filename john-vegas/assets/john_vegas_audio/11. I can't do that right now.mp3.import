@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dg5alcvcv6ayg"
+path="res://.godot/imported/11. I can't do that right now.mp3-425b23bc579fdb0181fc6dcdce4d333e.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/11. I can't do that right now.mp3"
+dest_files=["res://.godot/imported/11. I can't do that right now.mp3-425b23bc579fdb0181fc6dcdce4d333e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

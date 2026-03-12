@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmsmohchlrlry"
+path="res://.godot/imported/24. I've not yet learned how to do that.mp3-b1ef14189e774e5e911483b1b23cc3fa.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/24. I've not yet learned how to do that.mp3"
+dest_files=["res://.godot/imported/24. I've not yet learned how to do that.mp3-b1ef14189e774e5e911483b1b23cc3fa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

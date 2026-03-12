@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgrrvkup1bnhx"
+path="res://.godot/imported/28. I'm unable to learn how to do that.mp3-1d66ad9cb54dba00ff4e4ebc07ac142c.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/28. I'm unable to learn how to do that.mp3"
+dest_files=["res://.godot/imported/28. I'm unable to learn how to do that.mp3-1d66ad9cb54dba00ff4e4ebc07ac142c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dpq3oojgai7v1"
+path="res://.godot/imported/16. I'm afraid I can't do that.mp3-323c61847c24304064389da6f7bca25e.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/16. I'm afraid I can't do that.mp3"
+dest_files=["res://.godot/imported/16. I'm afraid I can't do that.mp3-323c61847c24304064389da6f7bca25e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

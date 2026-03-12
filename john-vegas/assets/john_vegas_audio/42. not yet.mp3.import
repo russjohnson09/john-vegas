@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c272b8kd14c4x"
+path="res://.godot/imported/42. not yet.mp3-bef1f4ba6f07d9bdb8472395276769f4.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/42. not yet.mp3"
+dest_files=["res://.godot/imported/42. not yet.mp3-bef1f4ba6f07d9bdb8472395276769f4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
