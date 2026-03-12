@@ -17,3 +17,8 @@ uv run python -m http.server --directory ../john-vegas/build/web/
 
 # Short that baby
 https://www.youtube.com/watch?v=lkJkPhuTCco
+
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/4/4b/Fujiwara_no_hidesato_no_mukade_taiji_LCCN2008660436.jpg

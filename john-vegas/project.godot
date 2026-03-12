@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="John Vegas"
-run/main_scene="uid://dtowhw71fkg5i"
+run/main_scene="uid://qh6m8q666jw7"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[display]
+
+window/stretch/mode="viewport"
 
 [physics]
 
