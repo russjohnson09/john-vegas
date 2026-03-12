@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://b7d4mg3ojeo4n"]
+
+[ext_resource type="Script" uid="uid://yded0aj7qo37" path="res://texture_button_with_audio.gd" id="1_0cs1h"]
+
+[node name="TextureButtonWithAudio" type="TextureButton" unique_id=1530153151]
+script = ExtResource("1_0cs1h")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." unique_id=1214709781]
+
+[connection signal="pressed" from="." to="." method="_on_pressed"]

@@ -30,25 +30,28 @@ def _make_path_directory(filepath):
     pathlib.Path(dir_path).mkdir(parents=True, exist_ok=True) 
 
 
-def _get_mp3_filename(text: str):
-
-    filename = text
-
-    filename = f'{filename}.mp3'
-    
-    
-    return os.path.abspath(os.path.join(_assets_dir, './john_vegas_audio', filename)) 
 
 
-def save_mp3_from_timing_array(video: VideoFileClip, timing_array):
+def save_mp3_from_timing_array(video: VideoFileClip, timing_file, directory):
 
+    def _get_mp3_filename(text: str):
+
+        filename = text
+
+        filename = f'{filename}.mp3'
+        
+        
+        return os.path.abspath(os.path.join(_assets_dir, directory, filename)) 
+
+
+    timing_array = _get_timing(timing_file)
 
     count = 0
     for timing in timing_array:
         count += 1
         print(timing)
 
-        filepath = _get_mp3_filename(f'{count}.{timing.get('text')}')
+        filepath = _get_mp3_filename(f'{count}. {timing.get('text')}')
 
         clipped_video = video.subclipped(timing.get('start'), timing.get('end'))
 

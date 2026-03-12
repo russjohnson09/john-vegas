@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dioheovv4f1k5"
+path="res://.godot/imported/2. it's like so easy.mp3-227bca57197360aea5c57a497cb9efdc.mp3str"
+
+[deps]
+
+source_file="res://assets/short_baby/2. it's like so easy.mp3"
+dest_files=["res://.godot/imported/2. it's like so easy.mp3-227bca57197360aea5c57a497cb9efdc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

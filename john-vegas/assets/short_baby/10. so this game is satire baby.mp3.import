@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cp6k88fi2urvk"
+path="res://.godot/imported/10. so this game is satire baby.mp3-28aa4a628b408c98b5461d88b5d65bb9.mp3str"
+
+[deps]
+
+source_file="res://assets/short_baby/10. so this game is satire baby.mp3"
+dest_files=["res://.godot/imported/10. so this game is satire baby.mp3-28aa4a628b408c98b5461d88b5d65bb9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

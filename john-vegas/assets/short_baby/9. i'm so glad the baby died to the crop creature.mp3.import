@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dbyd3gxwqh4yy"
+path="res://.godot/imported/9. i'm so glad the baby died to the crop creature.mp3-f0581d3b04752af4addad04f56aed306.mp3str"
+
+[deps]
+
+source_file="res://assets/short_baby/9. i'm so glad the baby died to the crop creature.mp3"
+dest_files=["res://.godot/imported/9. i'm so glad the baby died to the crop creature.mp3-f0581d3b04752af4addad04f56aed306.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

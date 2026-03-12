@@ -6,5 +6,9 @@ extends Node2D
 func _on_texture_button_pressed() -> void:
 	print("pressed")
 	
-	$AudioStreamPlayer.play(12.0)
+	
+	$AudioStreamPlayer.stream = load("res://assets/john_vegas_audio/1.The name's john vegas.mp3")
+	
+	$AudioStreamPlayer.play()
+
 	pass # Replace with function body.
