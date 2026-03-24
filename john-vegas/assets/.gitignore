@@ -1,0 +1,18 @@
+*.mp3
+*.wav
+*.png
+*.mp4
+
+
+*.jpg
+
+# TODO for these assets include a downloader script
+# https://upload.wikimedia.org/wikipedia/commons/4/4b/Fujiwara_no_hidesato_no_mukade_taiji_LCCN2008660436.jpg
+# john-vegas\assets\misc_images\Fujiwara_no_hidesato_no_mukade_taiji_LCCN2008660436.jpg
+
+!.gitignore
+# *.import
+
+# john vegas audio and man
+#https://www.youtube.com/watch?v=clnrrJOmfPk
+# Cool Protagonist for Your Video Game (Free to Use Audio) [clnrrJOmfPk].mp4

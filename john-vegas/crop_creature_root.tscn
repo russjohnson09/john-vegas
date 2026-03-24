@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://qh6m8q666jw7"]
+
+[ext_resource type="PackedScene" uid="uid://b7d4mg3ojeo4n" path="res://TextureButtonWithAudio.tscn" id="1_rcfy2"]
+[ext_resource type="Texture2D" uid="uid://bhy5uefcj204n" path="res://assets/misc_images/Fujiwara_no_hidesato_no_mukade_taiji_LCCN2008660436.jpg" id="2_n5gcc"]
+[ext_resource type="AudioStream" uid="uid://6ci82ctimepn" path="res://assets/short_baby/7. crop creature.mp3" id="3_664yk"]
+
+[node name="CropCreatureRoot" type="Node2D" unique_id=701645355]
+
+[node name="TextureButtonWithAudio" parent="." unique_id=1530153151 instance=ExtResource("1_rcfy2")]
+texture_normal = ExtResource("2_n5gcc")
+stream = ExtResource("3_664yk")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=550321372]
+position = Vector2(4168, 1845)
+zoom = Vector2(0.2, 0.2)

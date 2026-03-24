@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bj7nucqmpk3yl"
+path="res://.godot/imported/30. Not right now.mp3-9d1a3874403b4bfd1de5e3b94da323b9.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/30. Not right now.mp3"
+dest_files=["res://.godot/imported/30. Not right now.mp3-9d1a3874403b4bfd1de5e3b94da323b9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

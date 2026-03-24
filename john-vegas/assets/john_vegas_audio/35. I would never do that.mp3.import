@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c7a2npo42krg1"
+path="res://.godot/imported/35. I would never do that.mp3-e16da0d67ea8567d360146563a22f3e7.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/35. I would never do that.mp3"
+dest_files=["res://.godot/imported/35. I would never do that.mp3-e16da0d67ea8567d360146563a22f3e7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

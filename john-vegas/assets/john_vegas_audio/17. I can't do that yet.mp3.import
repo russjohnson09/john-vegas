@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://btrupsayxtvjp"
+path="res://.godot/imported/17. I can't do that yet.mp3-a5ea544e96c1aaf180509079d6bed0d5.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/17. I can't do that yet.mp3"
+dest_files=["res://.godot/imported/17. I can't do that yet.mp3-a5ea544e96c1aaf180509079d6bed0d5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

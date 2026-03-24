@@ -25,3 +25,15 @@ This I can do ... but not right now.
 
 
 Implement in godot.
+
+
+
+# Update
+ git@github.com:russjohnson09/python-misc.git
+
+
+# Godot
+
+Using Compatibility renderer OpenGL 3 and WebGL2 for web platform support.
+
+ 

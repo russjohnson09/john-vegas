@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d1hryk3a5u8bj"
+path="res://.godot/imported/9. ahh.mp3-5cbc6f7649f9e95d70db686764d7a850.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/9. ahh.mp3"
+dest_files=["res://.godot/imported/9. ahh.mp3-5cbc6f7649f9e95d70db686764d7a850.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

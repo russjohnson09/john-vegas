@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dgfeycnofo4je"
+path="res://.godot/imported/37. I wouldn't do that not me.mp3-07911f701298dac527367d2031b2a660.mp3str"
+
+[deps]
+
+source_file="res://assets/john_vegas_audio/37. I wouldn't do that not me.mp3"
+dest_files=["res://.godot/imported/37. I wouldn't do that not me.mp3-07911f701298dac527367d2031b2a660.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
